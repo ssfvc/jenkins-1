@@ -1,6 +1,6 @@
 node{
     
-    stage('maha stage1   mygitclone'){
+    stage('Devops stage1   mygitclone'){
     git 'https://github.com/devopsvc/mahalogin.git'
     }
     
